@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+=======
+a {
+  transition: color 0.7s;
+  &:hover {
+    color: blueviolet !important;
+  }
+}
+
+tbody {
+  tr {
+    .positive ,
+    .negative {
+      transition: background-color 0.7s !important;
+    }
+    transition: background-color 0.7s;
+  }
+}
+>>>>>>> fs_aug19_dima_m
